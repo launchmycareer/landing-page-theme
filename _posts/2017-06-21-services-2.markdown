@@ -7,6 +7,4 @@ description: |
 ---
 Need promotional materials for students? 
 
-Student videos: [CO](https://s3.amazonaws.com/launchmycareer/Launch+My+Career+CO+Student+Version.mp4) | FL | TN | TX
-
-Something else: CO | FL | TN | TX
+State-specific student videos. [CO](https://s3.amazonaws.com/launchmycareer/Launch+My+Career+CO+Student+Version.mp4) | FL | TN | TX
