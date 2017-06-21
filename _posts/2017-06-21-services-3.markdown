@@ -1,9 +1,10 @@
 ---
 layout: default
-img: ipad.png
+img: dog.png
 category: Services
-title: Guides for K-12 Advisors
+title: Materials for Advisors of Adult Students
 description: |
 ---
-  Click below to download an guide customized for K-12 advisors in your state.
-  [CO](https://s3.amazonaws.com/launchmycareer/LaunchMyCareerColorado+-+Advisor+Conversation+Guide+-+K12+-+2016-8-31.pdf) | FL | [TN](https://s3.amazonaws.com/launchmycareer/LaunchMyCareerTN+-+Advisor+Conversation+Guide+-+K12.pdf) | TX
+Click below to download an guide customized for advisors of adult students in your state.
+[CO](https://s3.amazonaws.com/launchmycareer/LaunchMyCareerColorado+-+Advisor+Conversation+Guide+-+K12+-+2016-8-31.pdf) | FL | [TN](https://s3.amazonaws.com/launchmycareer/LaunchMyCareerTN+-+Advisor+Conversation+Guide+-+K12.pdf) | TX
+

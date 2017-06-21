@@ -1,9 +1,0 @@
----
-layout: default
-img: phones.png
-category: Services
-title: Finally a third<br>And a subtitle if you want
-description: |
----
-This would let you [Link to a static page](http://www.air.org), as well as other stuff.
-More text here.
