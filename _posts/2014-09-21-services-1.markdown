@@ -1,9 +1,0 @@
----
-layout: default
-img: ipad.png
-category: Services
-title: Guides for K-12 Advisors
-description: |
----
-  Click below to download an guide customzied for K-12 advisors in your state.
-  CO | FL | TN | TX
