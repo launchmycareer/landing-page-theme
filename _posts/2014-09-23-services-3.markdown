@@ -2,7 +2,8 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Finally a third<br>And a subtitle if you want
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+This would let you [Link to a static page](http://www.air.org), as well as other stuff.
+More text here.
